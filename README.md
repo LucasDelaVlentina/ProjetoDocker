@@ -23,7 +23,7 @@
     <ol>
         <li>
             Em uma pasta de sua preferência, abra o Git Bash e digite:
-            <pre><code>git clone https://github.com/Lucas-Dreveck/ProjetoFinalDocker</code></pre>
+            <pre><code>git clone https://github.com/LucasDelaValentina/ProjetoFinalDocker</code></pre>
         </li>
         <li>
             Acesse a pasta do projeto:
